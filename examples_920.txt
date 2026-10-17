@@ -1,0 +1,111 @@
+Beyond the $1.66/Hour Thesis
+The arithmetic is right. The market is real. What sits between them is where this industry actually gets built.
+There is a number going around in robotics that, if it holds, reprices every job that involves lifting something.
+$1.66 an hour.
+It comes from "How to think about the robotics market" published recently by RoboStrategy's CMO, and it deserves the attention it got. It is the clearest short case anyone has made for why humanoid robots matter.
+The argument runs like this. AI has finally given robots something close to a brain, so a humanoid can now do real physical work. Buy one for $50,000. Run it twenty hours a day, seven days a week, for seven years. Add maintenance at ten percent of purchase price each year. That comes to $85,000 spread across 51,100 working hours.
+$1.66 per hour.
+
+Source: https://x.com/intern
+And if a machine can do manual labor for under two dollars an hour and never quit, then the market these companies are selling into is not the robotics industry. It is the labor market, which the piece sizes at roughly $60 trillion. Walmart and Amazon each employ more than a million people in physical work. The argument is that eventually they absorb robots by the million.
+None of it is unreasonable. Most of it probably happens.
+The data just says it takes longer than the arithmetic suggests. And the reason why turns out to be more interesting than the number itself.
+Here is the whole disagreement in one line. The thesis prices scheduled hours. Customers buy productive hours.
+
+What the market actually charges
+This part does not need estimating. A vendor just published it.
+
+Agility Robotics is going public through a merger with Churchill Capital Corp XI. The June 2026 investor presentation models Digit at roughly $8,500 per month per robot under Robots-as-a-Service, and about $500,000 of cumulative revenue per robot over a five-year life [1].
+That is not a critic's estimate. It is the company's own filed model, for the humanoid with the longest paid deployment record in the West.
+So take the thesis at its word, and run its own assumption against that price.
+Twenty hours a day, every day, works out to about 608 hours a month. At $8,500, that is $14 an hour. And that is granting perfect utilization, zero downtime, and no time spent charging.
+Run it the way robots actually work today, one shift, five days a week, and it lands closer to $50 an hour.
+
+So $1.66 is not wrong. It is somewhere between eight and thirty times away.
+The interesting question is what that distance is made of. None of it is "the AI isn't smart enough."
+
+
+What is actually stopping $1.66 today
+1. Twenty hours a day is not physically available.
+Figure's F.03 pack holds 2.3 kWh and delivers five hours at peak performance [2]. Agility publishes four hours for Digit [3]. Those are the two best documented platforms in the West, and neither one clears a single shift without stopping.
+Battery swaps help. Opportunity charging helps. Neither gets anyone to twenty.
+
+
+2. Leasing does not make a robot cheap. It makes someone else responsible.
+The original piece argues that leasing beats selling, because it turns each robot into a recurring productive asset instead of a one-time sale. The market agrees. GXO's multi-year deal with Agility is structured exactly that way [4].
+
+https://www.youtube.com/watch?v=Xq_-OTQgzf0
+
+
+But look at what the lease actually costs.
+A $50,000 robot amortized over seven years, plus ten percent annual maintenance, comes to about $1,000 a month. The real RaaS price is $8,500.
+Hardware and maintenance are roughly an eighth of what the customer pays.
+
+The other seven eighths is the answer to a question the thesis never asks. What does it actually take to make a robot work? Someone has to finance the fleet, define the workflow, stock the spares, staff the service calls, and absorb the downtime when a robot stops. Leasing moves all of that onto the vendor's balance sheet. It does not delete it.
+
+
+3. Almost none of the deployment work transfers.
+In warehouse automation, hardware typically accounts for 40 to 60 percent of first-year cost. Site survey, fixturing, WMS and MES integration, safety engineering, and worker training carry the rest. A $30,000 machine routinely becomes a $150,000 installation.
+And then the second site starts over at close to zero.
+This is also why million-unit orders stay theoretical. Two million robots at $50,000 is $100 billion of capex, which is already a very large number. At what the market actually charges, two million robots is over $200 billion a year, every year. No company on earth spends that.
+
+4. Safety is certified per application, not per robot.
+This is the hard constraint on general purpose deployment, and most market models skip it entirely.
+ISO 10218-1 and -2 were revised in 2025 [5]. OSHA requires documented, task-based risk assessment before commissioning, and again whenever the task changes [6]. Europe's Machinery Regulation applies from January 2027, with high-risk AI obligations following in August 2028 [7][8].
+Change the gripper, the payload, the speed, or the people sharing the floor, and there is a new hazard analysis to complete.
+A robot does not carry its certification from one job to the next. Which is what makes "drag and drop into any manual job" a slide rather than a workflow.
+
+
+5. The bill of materials has a queue.
+High-torque actuators need neodymium-iron-boron magnets, and China's share of global magnet processing is widely put near 90 percent. Harmonic drives are worse: tighter tolerances, fewer qualified suppliers, and lead times measured in quarters. McKinsey's read is that these components, not the models, set the ceiling on how many humanoids actually get built [9].
+
+
+So why is anyone signing?
+Because $50 an hour already works in the right job.
+In high-turnover, hazardous, ergonomically punishing work, the comparison was never $1.66 against a $25 wage. It is the fully loaded cost of reliably getting the work done. Recruiting, training, injury, overtime, the shift nobody covered last Tuesday. All of that, against a machine that shows up.
+It is worth being honest about the size of this. Roughly 19,100 humanoid units shipped in the first half of 2026, more than 97 percent of them from Chinese vendors, and much of that went to research and demonstration rather than paid work [10]. Deployed fleets in the West are in the hundreds.
+Small numbers. But they are real numbers, honestly reported, which is what year one of an industry looks like when someone bothers to measure it.
+One note on the $60 trillion figure, since it anchors so much of the sizing debate. Labor income was 52.4 percent of global output in 2024 [11], and that is a ceiling rather than a market. Even if humanoids did every hour of that work, vendors would capture only what customers pay for machines and service. The customer keeps the savings. That is the entire reason to buy one.
+
+KATENA's approach: earn before autonomy arrives
+Most of those blockers are engineering problems with clear owners. Battery chemistry, manufacturing yield, integration tooling, supply chain. They get solved on hardware timelines, and they get solved with money.
+The one that sets the price is different. It is the human who still has to be there.
+The industry's default answer is to wait it out. Keep piloting until autonomy is good enough to remove that person, then scale. That sequence has a funding problem, because pilots do not pay for themselves.
+KATENA took the other route.
+The long-term application of avatar technology is remote human-machine synchronization for work people should not have to do in person. Hazardous environments, disaster response, decommissioning. The human supplies intent, judgment, and dexterity. The robot takes the risk.
+That destination is not ready yet. So the first step is a market that is.
+ARC League, the Avatar Robotics Competitions League, gamifies deep tech. Live human-machine synchronization as entertainment, in a market that is already open, and where no safety case takes eighteen months to clear.
+
+Two events this year.
+https://www.instagram.com/p/DZpnMjhRtmq/
+
+In June, a robot fighting show in New York, with two pilots driving the robots through motion capture suits.
+https://www.instagram.com/p/DcMFZkWuMi3/
+In August, a human-machine sync play-ball experience at a Chicago, WRIGLEY FIELD, in front of a general audience.
+Both worked.
+
+
+Competition is a punishing hardware test bench, and ticket sales fund it instead of investors. It generates human intent data under real time pressure, which is exactly the data a pilot deployment cannot produce, because nothing in a pilot is allowed to fail. It recruits elite engineers better than any job posting. And it produces revenue now, which is what makes a robotics business sustainable rather than dependent on someone else's autonomy timetable.
+
+
+In summary
+Commercialization has started. A few hundred deployed units, at roughly $8,500 a month.
+$1.66 is a floor on scheduled hours. Customers buy productive hours, and today those run somewhere between $14 and $50.
+Battery life, service load, integration, per-application certification, and actuator supply are what stand in between. All engineering problems. None of them are walls.
+Closing that gap takes years of hardware cycles, operating data, and validated deployments, and every one of those has to be paid for along the way. KATENA's answer is to make robots earn while the gap closes. ARC League produces revenue and human intent data today, that data sharpens the precision of human-machine synchronization, and the same capability eventually takes the on-site human out of the failure case.
+$1.66 an hour is still the right destination. The thesis was never wrong about where this ends up.
+The only real question is what gets built between here and there.
+
+  ////
+References
+1. Churchill Capital Corp XI, Investor Presentation, June 2026 (SEC Form 425 exhibit). https://www.sec.gov/Archives/edgar/data/2074973/000121390026071287/ea029548401ex99-2.htm
+2. Figure, F.03 Battery Development. https://www.figure.ai/news/f-03-battery-development
+3. Agility Robotics, Digit specifications and solutions. https://www.agilityrobotics.com/solutions
+4. GXO, industry-first multi-year agreement with Agility Robotics. https://investors.gxo.com/news-releases/news-release-details/gxo-signs-industry-first-multi-year-agreement-agility-robotics
+5. ISO 10218-1:2025 and ISO 10218-2:2025, robots and robotic devices, safety requirements. https://www.iso.org/standard/73933.html
+6. U.S. OSHA, Industrial Robot Systems and Safety, OSHA Technical Manual Section 4 Chapter 4. https://www.osha.gov/otm/section-4-safety-hazards/chapter-4
+7. EUR-Lex, Regulation (EU) 2023/1230 on machinery. https://eur-lex.europa.eu/eli/reg/2023/1230/en
+8. European Commission, AI Act implementation timeline. https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+9. McKinsey & Company, Scaling the humanoid robotics supply chain. https://www.mckinsey.com/industries/industrials/our-insights/turning-humanoid-supply-chain-constraints-into-billion-dollar-wins
+10. Smart Analytics Global, H1 2026 humanoid shipment estimate. https://smartanalyticsglobal.com/global-humanoid-robot-shipments-2026-agibot-unitree/
+11. International Labour Organization, World Employment and Social Outlook: May 2025 Update. https://www.ilo.org/publications/flagship-reports/world-employment-and-social-outlook-may-2025-update
