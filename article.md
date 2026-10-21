@@ -33,9 +33,9 @@ Globally, IDC estimates about **25,000 humanoids shipped in the first half of 20
 
 ## 2. Humans are now part of what's being sold
 
-<video controls preload="metadata" poster="https://i.ytimg.com/vi/4whgw2gLBS8/hqdefault.jpg" src="assets/videos/atlas-new-hands.mp4" width="100%"></video>
+[![New Hands for Atlas | Boston Dynamics](https://i.ytimg.com/vi/4whgw2gLBS8/hqdefault.jpg)](https://www.youtube.com/watch?v=4whgw2gLBS8)
 
-*"New Hands for Atlas", Boston Dynamics, Oct 1, 2026. Video: [Boston Dynamics on YouTube](https://www.youtube.com/watch?v=4whgw2gLBS8)*
+*▶ Click to watch: "New Hands for Atlas", Boston Dynamics, Oct 1, 2026. Video: [Boston Dynamics on YouTube](https://www.youtube.com/watch?v=4whgw2gLBS8)*
 
 On **October 1**, Boston Dynamics unveiled a new Atlas hand with **13 degrees of freedom, up from 7**. It has dense tactile sensing and is built to use drills, nail guns and welding torches [[10]](#sources). In the launch footage, the drill demo was run by **a remote operator**. A simpler two-ball manipulation was autonomous [[11]](#sources).
 
@@ -48,13 +48,13 @@ This is common across the industry. Human skill used to be treated as a temporar
 | **Minerva Humanoids** (US / Germany) | Building "Roger," a humanoid that lets trained specialists do dangerous jobs remotely, operated in VR | **~$10M pre-seed led by General Catalyst** (Oct 6). Targets oil and gas, bomb disposal and HazMat [[14]](#sources) |
 | **HTX** (Singapore) | Government center training humanoids for HazMat, post-blast and emergency work | Opened Sept 30 with dedicated **motion-capture, teleoperation and human-demonstration** zones [[15]](#sources) |
 
-<video controls preload="metadata" poster="https://i.ytimg.com/vi/-P6adJ6P6C0/hqdefault.jpg" src="assets/videos/mecka-series-b.mp4" width="100%"></video>
+[![Mecka's $60M Series B Led by Sequoia Capital](https://i.ytimg.com/vi/-P6adJ6P6C0/hqdefault.jpg)](https://youtu.be/-P6adJ6P6C0)
 
-*Mecka's Series B film, Oct 8, 2026. Video: [Mecka on YouTube](https://youtu.be/-P6adJ6P6C0)*
+*▶ Click to watch: Mecka's Series B film, Oct 8, 2026. Video: [Mecka on YouTube](https://youtu.be/-P6adJ6P6C0)*
 
-<video controls preload="metadata" poster="https://roboticsandautomationnews.com/wp-content/uploads/2026/10/minerva-humanoids-roger-1.jpg" src="assets/videos/minerva-roger_will-cannon.mp4" width="100%"></video>
+<a href="https://www.instagram.com/reels/Deabd8fvAQC/"><img src="assets/images/minerva-roger-reel-thumb.jpg" alt="Minerva Humanoids' Roger robot (Instagram reel)" width="320"></a>
 
-*Roger, Minerva's humanoid for hazardous work, is built to be operated by a remote specialist. Video: [Will Cannon (@iamwillcannon) on Instagram](https://www.instagram.com/reels/Deabd8fvAQC/), Oct 12, 2026*
+*▶ Click to watch: Roger, Minerva's humanoid for hazardous work, is built to be operated by a remote specialist. Video: [Will Cannon (@iamwillcannon) on Instagram](https://www.instagram.com/reels/Deabd8fvAQC/), Oct 12, 2026*
 
 > "Motion, contact, force and geometry aren't on the internet. You can't scrape them, license them or buy them."
 > (Mecka [[12]](#sources))
@@ -78,9 +78,9 @@ Factories are the long-term prize. But in entertainment, people are already payi
 
 Not every headline here is about money yet. In **September**, Unitree released footage of a G1 sparring with a human **with no teleoperator**. It calls this the first fully autonomous humanoid combat, though no one has independently verified the claim [[16]](#sources). It isn't a product yet. It is a sign of how fast the technology behind these shows is improving.
 
-<video controls preload="metadata" poster="https://i.ytimg.com/vi/qkIJELDgULA/hqdefault.jpg" src="assets/videos/unitree-autonomous-combat.mp4" width="100%"></video>
+[![Unitree: Fully Autonomous Humanoid Robot Combat](https://i.ytimg.com/vi/qkIJELDgULA/hqdefault.jpg)](https://www.youtube.com/watch?v=qkIJELDgULA)
 
-*Unitree's autonomous combat demo, Sept 7, 2026. Video: [Unitree Robotics on YouTube](https://www.youtube.com/watch?v=qkIJELDgULA)*
+*▶ Click to watch: Unitree's autonomous combat demo, Sept 7, 2026. Video: [Unitree Robotics on YouTube](https://www.youtube.com/watch?v=qkIJELDgULA)*
 
 The format that pushes the machines hardest without putting people at risk is **robot vs. robot, with elite humans piloting**. On **October 7**, ARC Night staged Singapore's first full-sized humanoid fight night. Muay Thai, MMA, boxing and kung fu athletes, including national and international champions, wore **full-body motion-capture suits** and piloted Unitree G1 and EngineAI T800 humanoids in real time in front of 380+ people [[19]](#sources). The athlete supplied the intent and the robot handled balance and execution. Only machines took the hits.
 
@@ -127,4 +127,4 @@ Building humanoid bodies is now a crowded and well-funded race. Teaching those b
 20. Tesla, Q3 2026 earnings date announcement (SEC Form 8-K exhibit). https://www.sec.gov/Archives/edgar/data/0001318605/000162828026064366/exhibit991111111.htm
 21. Bret Kerr (Substack), "The crowd is paying to watch the prototype," Oct 14, 2026. https://bretkerr.substack.com/p/the-crowd-is-paying-to-watch-the
 
-*Videos are embedded with credit to their original creators. Originals: Boston Dynamics (https://www.youtube.com/watch?v=4whgw2gLBS8), Mecka (https://youtu.be/-P6adJ6P6C0), Will Cannon (https://www.instagram.com/reels/Deabd8fvAQC/), Unitree Robotics (https://www.youtube.com/watch?v=qkIJELDgULA).*
+*Video covers link to the originals, credited to their creators: Boston Dynamics (https://www.youtube.com/watch?v=4whgw2gLBS8), Mecka (https://youtu.be/-P6adJ6P6C0), Will Cannon (https://www.instagram.com/reels/Deabd8fvAQC/), Unitree Robotics (https://www.youtube.com/watch?v=qkIJELDgULA).*
