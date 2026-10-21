@@ -48,10 +48,12 @@ This is common across the industry. Human skill used to be treated as a temporar
 | **Minerva Humanoids** (US / Germany) | Building "Roger," a humanoid that lets trained specialists do dangerous jobs remotely, operated in VR | **~$10M pre-seed led by General Catalyst** (Oct 6). Targets oil and gas, bomb disposal and HazMat [[14]](#sources) |
 | **HTX** (Singapore) | Government center training humanoids for HazMat, post-blast and emergency work | Opened Sept 30 with dedicated **motion-capture, teleoperation and human-demonstration** zones [[15]](#sources) |
 
+<!-- 🎬 VIDEO: when publishing to X / LinkedIn, replace the cover below with an upload of assets/videos/mecka-series-b.mp4, keep the caption -->
 [![Mecka's $60M Series B Led by Sequoia Capital](https://i.ytimg.com/vi/-P6adJ6P6C0/hqdefault.jpg)](https://youtu.be/-P6adJ6P6C0)
 
 *▶ Click to watch: Mecka's Series B film, Oct 8, 2026. Video: [Mecka on YouTube](https://youtu.be/-P6adJ6P6C0)*
 
+<!-- 🎬 VIDEO: when publishing to X / LinkedIn, replace the cover below with an upload of assets/videos/minerva-roger_will-cannon.mp4, keep the caption -->
 <a href="https://www.instagram.com/reels/Deabd8fvAQC/"><img src="assets/images/minerva-roger-reel-thumb.jpg" alt="Minerva Humanoids' Roger robot (Instagram reel)" width="320"></a>
 
 *▶ Click to watch: Roger, Minerva's humanoid for hazardous work, is built to be operated by a remote specialist. Video: [Will Cannon (@iamwillcannon) on Instagram](https://www.instagram.com/reels/Deabd8fvAQC/), Oct 12, 2026*
@@ -78,6 +80,7 @@ Factories are the long-term prize. But in entertainment, people are already payi
 
 Not every headline here is about money yet. In **September**, Unitree released footage of a G1 sparring with a human **with no teleoperator**. It calls this the first fully autonomous humanoid combat, though no one has independently verified the claim [[16]](#sources). It isn't a product yet. It is a sign of how fast the technology behind these shows is improving.
 
+<!-- 🎬 VIDEO: when publishing to X / LinkedIn, replace the cover below with an upload of assets/videos/unitree-autonomous-combat.mp4, keep the caption -->
 [![Unitree: Fully Autonomous Humanoid Robot Combat](https://i.ytimg.com/vi/qkIJELDgULA/hqdefault.jpg)](https://www.youtube.com/watch?v=qkIJELDgULA)
 
 *▶ Click to watch: Unitree's autonomous combat demo, Sept 7, 2026. Video: [Unitree Robotics on YouTube](https://www.youtube.com/watch?v=qkIJELDgULA)*
