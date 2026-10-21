@@ -7,7 +7,7 @@
 > **TL;DR**
 > - **Money now follows revenue.** China cooled humanoid IPOs, Agility is weeks from Nasdaq, and Boston Dynamics hired an AI chief as CEO. Capital is still flowing, but investors now want proof the robots earn money.
 > - **Humans are now part of what's being sold.** Startups that sell human movement data report $100M+ revenue run-rates. New humanoids are built for remote operation. Even Atlas's new hand needed a human for its hardest demo.
-> - **Entertainment is the first market humanoids are actually earning in.** Theme parks, fight nights and viral bouts are where people first see humanoids in person, and where the hardware gets tested hardest.
+> - **Entertainment is the most practical path to revenue for humanoids today.** People are already paying for theme parks and ticketed fight nights, and those events are where humanoids meet the public and where the hardware gets tested hardest.
 
 ---
 
@@ -33,8 +33,9 @@ Globally, IDC estimates about **25,000 humanoids shipped in the first half of 20
 
 ## 2. Humans are now part of what's being sold
 
-[![New Hands for Atlas | Boston Dynamics](https://i.ytimg.com/vi/4whgw2gLBS8/hqdefault.jpg)](https://www.youtube.com/watch?v=4whgw2gLBS8)
-*▶ Watch: "New Hands for Atlas", Boston Dynamics, Oct 1, 2026*
+<video controls preload="metadata" poster="https://i.ytimg.com/vi/4whgw2gLBS8/hqdefault.jpg" src="assets/videos/atlas-new-hands.mp4" width="100%"></video>
+
+*"New Hands for Atlas", Boston Dynamics, Oct 1, 2026. Video: [Boston Dynamics on YouTube](https://www.youtube.com/watch?v=4whgw2gLBS8)*
 
 On **October 1**, Boston Dynamics unveiled a new Atlas hand with **13 degrees of freedom, up from 7**. It has dense tactile sensing and is built to use drills, nail guns and welding torches [[10]](#sources). In the launch footage, the drill demo was run by **a remote operator**. A simpler two-ball manipulation was autonomous [[11]](#sources).
 
@@ -47,11 +48,13 @@ This is common across the industry. Human skill used to be treated as a temporar
 | **Minerva Humanoids** (US / Germany) | Building "Roger," a humanoid that lets trained specialists do dangerous jobs remotely, operated in VR | **~$10M pre-seed led by General Catalyst** (Oct 6). Targets oil and gas, bomb disposal and HazMat [[14]](#sources) |
 | **HTX** (Singapore) | Government center training humanoids for HazMat, post-blast and emergency work | Opened Sept 30 with dedicated **motion-capture, teleoperation and human-demonstration** zones [[15]](#sources) |
 
-[![Mecka's $60M Series B Led by Sequoia Capital](https://i.ytimg.com/vi/-P6adJ6P6C0/hqdefault.jpg)](https://youtu.be/-P6adJ6P6C0)
-*▶ Watch: Mecka's Series B film*
+<video controls preload="metadata" poster="https://i.ytimg.com/vi/-P6adJ6P6C0/hqdefault.jpg" src="assets/videos/mecka-series-b.mp4" width="100%"></video>
 
-![Minerva Humanoids' Roger robot](https://roboticsandautomationnews.com/wp-content/uploads/2026/10/minerva-humanoids-roger-1.jpg)
-*Roger, Minerva's humanoid for hazardous work, is built to be operated by a remote specialist. Photo: [Robotics & Automation News](https://roboticsandautomationnews.com/2026/10/07/minerva-humanoids-raises-10-million-to-develop-robots-for-dangerous-industrial-jobs/105619/)*
+*Mecka's Series B film, Oct 8, 2026. Video: [Mecka on YouTube](https://youtu.be/-P6adJ6P6C0)*
+
+<video controls preload="metadata" poster="https://roboticsandautomationnews.com/wp-content/uploads/2026/10/minerva-humanoids-roger-1.jpg" src="assets/videos/minerva-roger_will-cannon.mp4" width="100%"></video>
+
+*Roger, Minerva's humanoid for hazardous work, is built to be operated by a remote specialist. Video: [Will Cannon (@iamwillcannon) on Instagram](https://www.instagram.com/reels/Deabd8fvAQC/), Oct 12, 2026*
 
 > "Motion, contact, force and geometry aren't on the internet. You can't scrape them, license them or buy them."
 > (Mecka [[12]](#sources))
@@ -60,29 +63,31 @@ This is common across the industry. Human skill used to be treated as a temporar
 
 ---
 
-## 3. Entertainment is where humanoids are earning first
+## 3. Entertainment is the most practical path to revenue today
 
 ![AGIBOT humanoids at Chimelong Spaceship Park](https://www.robotics247.com/images/2026_article/AGIBOT-Chimelong-tourism-humanoid-main-Robotics247-2026.jpg)
 *AGIBOT robots at Chimelong Spaceship Park in Zhuhai. Photo: [Robotics 24/7](https://www.robotics247.com/article/agibot-chimelong-launch-large-scale-embodied-ai-theme-park-with-over-300-robots)*
 
-Factories are the long-term prize, but the first place most people actually see a humanoid is somewhere they paid to be entertained.
+Factories are the long-term prize. But in entertainment, people are already paying to watch humanoids today, years before most factory fleets reach full scale. None of these companies publish revenue yet, so the evidence is in ticket sales and investor money:
 
-- **Zhuhai, China (Sept 24):** AGIBOT and Chimelong opened a theme park with **more than 300 humanoid robots** in its first phase [[7]](#sources).
-- **Hangzhou, China (Sept):** Unitree released footage of a G1 sparring with a human **with no teleoperator**. It calls this the first fully autonomous humanoid combat, though no one has independently verified the claim yet [[16]](#sources).
-- **San Francisco (Sept 18):** The league REK put an influencer in a cage against VR-piloted humanoids, and the fight went viral [[17]](#sources). Within two weeks, the **California State Athletic Commission** warned organizers that unsanctioned human-vs-robot fights could be a misdemeanor [[18]](#sources).
-
-[![Unitree: Fully Autonomous Humanoid Robot Combat](https://i.ytimg.com/vi/qkIJELDgULA/hqdefault.jpg)](https://www.youtube.com/watch?v=qkIJELDgULA)
-*▶ Watch: Unitree's autonomous combat demo (Sept 2026)*
+- **Zhuhai, China (Sept 24):** AGIBOT and Chimelong opened a theme park with **more than 300 humanoid robots** in its first phase [[7]](#sources). The robots are part of what visitors pay to see.
+- **San Francisco (Sept 18):** The league REK put an influencer in a cage against VR-piloted humanoids, and the fight went viral [[17]](#sources). REK hasn't disclosed revenue, but it sells tickets: its next event, an Oct 9 robot-vs-robot "Deathmatch," charged **$69 a seat** [[17]](#sources). One analyst counted about 100 people there, roughly **$6,900 at the door**. He also pointed to a filing showing a fund holding about **$2.5M of REK preferred stock**, with tickets, sponsorships, media rights and merchandise listed as planned revenue [[21]](#sources). The numbers are small, but the pattern matters: a viral bout online turns into paying fans in the room. Within two weeks of the Sept 18 fight, the **California State Athletic Commission** warned organizers that unsanctioned human-vs-robot fights could be a misdemeanor [[18]](#sources).
 
 ![Human vs. humanoid boxing match in San Francisco](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/1200/675/humanoid-human-boxing-match.jpg?ve=1&tl=1)
 *REK's human-vs-humanoid bout in San Francisco. Photo: [Fox News](https://www.foxnews.com/tech/human-vs-humanoid-robot-cage-fight-goes-viral)*
 
+Not every headline here is about money yet. In **September**, Unitree released footage of a G1 sparring with a human **with no teleoperator**. It calls this the first fully autonomous humanoid combat, though no one has independently verified the claim [[16]](#sources). It isn't a product yet. It is a sign of how fast the technology behind these shows is improving.
+
+<video controls preload="metadata" poster="https://i.ytimg.com/vi/qkIJELDgULA/hqdefault.jpg" src="assets/videos/unitree-autonomous-combat.mp4" width="100%"></video>
+
+*Unitree's autonomous combat demo, Sept 7, 2026. Video: [Unitree Robotics on YouTube](https://www.youtube.com/watch?v=qkIJELDgULA)*
+
 The format that pushes the machines hardest without putting people at risk is **robot vs. robot, with elite humans piloting**. On **October 7**, ARC Night staged Singapore's first full-sized humanoid fight night. Muay Thai, MMA, boxing and kung fu athletes, including national and international champions, wore **full-body motion-capture suits** and piloted Unitree G1 and EngineAI T800 humanoids in real time in front of 380+ people [[19]](#sources). The athlete supplied the intent and the robot handled balance and execution. Only machines took the hits.
 
-![An ARC pilot and their humanoid avatar in matching guard](https://arcleague.com/arc/silver/ring-stand.webp)
-*ARC Night: the pilot on the outside, the avatar mirroring every move inside the cage.*
+![The crowd at ARC Night in Singapore](assets/images/arc-night-singapore.png)
+*ARC Night at \*SCAPE, Singapore, Oct 7: more than 380 people came to watch athlete-piloted humanoids fight. Photo: Katena*
 
-**The takeaway:** live entertainment ties the first two trends together. It earns revenue now, while factory deployments are still ramping. It is the toughest public test of humanoid hardware. And it produces some of the hardest human data to collect: fast, contact-heavy decisions made under pressure.
+**The takeaway:** live entertainment ties the first two trends together. Audiences are already buying tickets, while factory deployments are still ramping. It is the toughest public test of humanoid hardware. And it produces some of the hardest human data to collect: fast, contact-heavy decisions made under pressure.
 
 ---
 
@@ -120,3 +125,6 @@ Building humanoid bodies is now a crowded and well-funded race. Teaching those b
 18. Futurism, "California government officials order robot cage fight to cease," Oct 2, 2026. https://futurism.com/robots-and-machines/california-government-officials-robot-cage-fight-cease
 19. PR Newswire, "ARC stages Singapore's first full-sized humanoid fight night," Oct 9, 2026. https://www.prnewswire.com/apac/news-releases/arc-stages-singapores-first-full-sized-humanoid-fight-night-302903360.html
 20. Tesla, Q3 2026 earnings date announcement (SEC Form 8-K exhibit). https://www.sec.gov/Archives/edgar/data/0001318605/000162828026064366/exhibit991111111.htm
+21. Bret Kerr (Substack), "The crowd is paying to watch the prototype," Oct 14, 2026. https://bretkerr.substack.com/p/the-crowd-is-paying-to-watch-the
+
+*Videos are embedded with credit to their original creators. Originals: Boston Dynamics (https://www.youtube.com/watch?v=4whgw2gLBS8), Mecka (https://youtu.be/-P6adJ6P6C0), Will Cannon (https://www.instagram.com/reels/Deabd8fvAQC/), Unitree Robotics (https://www.youtube.com/watch?v=qkIJELDgULA).*
