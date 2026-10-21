@@ -67,7 +67,7 @@ This is common across the industry. Human skill used to be treated as a temporar
 
 ## 3. Entertainment is the most practical path to revenue today
 
-![AGIBOT humanoids at Chimelong Spaceship Park](https://www.robotics247.com/images/2026_article/AGIBOT-Chimelong-tourism-humanoid-main-Robotics247-2026.jpg)
+![AGIBOT humanoids at Chimelong Spaceship Park](https://www.robotics247.com/images/2026_article/AGIBOT-Chimelong-tourism-humanoid-main-Robotics247-2026.jpg)  
 *AGIBOT robots at Chimelong Spaceship Park in Zhuhai. Photo: [Robotics 24/7](https://www.robotics247.com/article/agibot-chimelong-launch-large-scale-embodied-ai-theme-park-with-over-300-robots)*
 
 Factories are the long-term prize. But in entertainment, people are already paying to watch humanoids today, years before most factory fleets reach full scale. None of these companies publish revenue yet, so the evidence is in ticket sales and investor money:
@@ -129,5 +129,3 @@ Building humanoid bodies is now a crowded and well-funded race. Teaching those b
 19. PR Newswire, "ARC stages Singapore's first full-sized humanoid fight night," Oct 9, 2026. https://www.prnewswire.com/apac/news-releases/arc-stages-singapores-first-full-sized-humanoid-fight-night-302903360.html
 20. Tesla, Q3 2026 earnings date announcement (SEC Form 8-K exhibit). https://www.sec.gov/Archives/edgar/data/0001318605/000162828026064366/exhibit991111111.htm
 21. Bret Kerr (Substack), "The crowd is paying to watch the prototype," Oct 14, 2026. https://bretkerr.substack.com/p/the-crowd-is-paying-to-watch-the
-
-*Video covers link to the originals, credited to their creators: Boston Dynamics (https://www.youtube.com/watch?v=4whgw2gLBS8), Mecka (https://youtu.be/-P6adJ6P6C0), Will Cannon (https://www.instagram.com/reels/Deabd8fvAQC/), Unitree Robotics (https://www.youtube.com/watch?v=qkIJELDgULA).*

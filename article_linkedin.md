@@ -12,9 +12,7 @@ LINKEDIN POST
    so a common approach is to put the link in the first comment and write "Link in the comments" in the post.
 -->
 
-Humanoid robotics grew up this fall.
-
-We spent six weeks tracking the news, and were in the room at Singapore's first humanoid fight night. Three things changed:
+Humanoid robotics grew up this fall, and were in the room at Singapore's first humanoid fight night. Three things changed:
 
 𝟭. 𝗠𝗼𝗻𝗲𝘆 𝗻𝗼𝘄 𝗳𝗼𝗹𝗹𝗼𝘄𝘀 𝗿𝗲𝘃𝗲𝗻𝘂𝗲
 China reportedly told banks to raise the bar for humanoid IPOs after Unitree fell ~55% from its peak. Meanwhile, Agility heads to Nasdaq with $300M+ in committed orders, Hyundai plans 25,000 Atlas units, and IDC expects 750,000 humanoids a year by 2030.
