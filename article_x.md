@@ -9,7 +9,7 @@ Replace [ADD LINK] in the last post with the full article URL.
 
 Humanoid robotics grew up this fall.
 
-Six weeks of news from Shanghai, Savannah, San Francisco and Singapore point to three shifts:
+Six weeks of news from Shanghai, Savannah, Zhuhai and Singapore point to three shifts:
 
 1. Money now follows revenue
 2. Human skill is becoming a product
@@ -114,21 +114,19 @@ AGIBOT and Chimelong opened a theme park in Zhuhai with 300+ humanoid robots in 
 
 ### 10/
 
-In San Francisco, REK put an influencer in a cage against VR-piloted humanoids. It went viral.
+The robot makers are building the shows themselves.
 
-Its next event charged $69 a seat. Small, but the pattern matters: a viral bout online turns into paying fans in the room.
+EngineAI runs its own fight league, URKL: 32 teams fight on company-supplied T800s for a gold belt worth ~$1.4M. Finals are set for Nov–Dec.
 
-California has since warned against human-vs-robot fights.
-
-📷 assets/images/rek-human-vs-humanoid.jpg
+Every bout is a public stress test of its own product.
 
 ---
 
 ### 11/
 
-Not every headline is about money yet.
+Unitree is chasing the same stage.
 
-Unitree released footage of a G1 sparring a human with no teleoperator, which it calls the first fully autonomous humanoid combat (not independently verified).
+It released footage of a G1 sparring a human with no teleoperator, which it calls the first fully autonomous humanoid combat (not independently verified).
 
 It isn't a product. It shows how fast the tech behind these shows is moving.
 
@@ -138,9 +136,9 @@ It isn't a product. It shows how fast the tech behind these shows is moving.
 
 ### 12/
 
-The format that pushes machines hardest without risking people: robot vs. robot, with elite humans piloting.
+ARC Night (Oct 7) was Singapore's first full-sized humanoid fight night, and it was teleoperated in real time.
 
-At ARC Night in Singapore (Oct 7), Muay Thai, MMA and boxing champions in mocap suits piloted humanoids in real time for 380+ people. Only machines took the hits.
+Muay Thai, MMA and boxing champions in mocap suits piloted humanoids move for move for 380+ people. Only machines took the hits.
 
 ---
 
@@ -158,9 +156,8 @@ Live entertainment ties all three shifts together:
 
 What to watch next:
 
-• Tesla Q3 results: first official Optimus production number
 • Nov 2: Agility's vote. If it passes, the US gets its first listed pure-play humanoid company
-• Robot combat rules: California drew the first line. Others will shape which formats grow
+• URKL finals (Nov–Dec): can a robot maker turn combat into a lasting format?
 
 ---
 

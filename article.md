@@ -1,6 +1,6 @@
 # Humanoids Grew Up This Fall. Three Things Changed.
 
-*Six weeks of news from Shanghai, Savannah, San Francisco and Singapore show where humanoid robotics is heading: toward revenue, toward human skill, and toward a live audience.*
+*Six weeks of news from Shanghai, Savannah, Zhuhai and Singapore show where humanoid robotics is heading: toward revenue, toward human skill, and toward a live audience.*
 
 ---
 
@@ -70,13 +70,10 @@ This is common across the industry. Human skill used to be treated as a temporar
 ![AGIBOT humanoids at Chimelong Spaceship Park](https://www.robotics247.com/images/2026_article/AGIBOT-Chimelong-tourism-humanoid-main-Robotics247-2026.jpg)  
 *AGIBOT robots at Chimelong Spaceship Park in Zhuhai. Photo: [Robotics 24/7](https://www.robotics247.com/article/agibot-chimelong-launch-large-scale-embodied-ai-theme-park-with-over-300-robots)*
 
-Factories are the long-term prize. But in entertainment, people are already paying to watch humanoids today, years before most factory fleets reach full scale. None of these companies publish revenue yet, so the evidence is in ticket sales and investor money:
+Factories are the long-term prize. But in entertainment, people are already paying to watch humanoids today, years before most factory fleets reach full scale. None of these companies publish revenue yet, but the robot makers themselves are now building the shows:
 
 - **Zhuhai, China (Sept 24):** AGIBOT and Chimelong opened a theme park with **more than 300 humanoid robots** in its first phase [[7]](#sources). The robots are part of what visitors pay to see.
-- **San Francisco (Sept 18):** The league REK put an influencer in a cage against VR-piloted humanoids, and the fight went viral [[17]](#sources). REK hasn't disclosed revenue, but it sells tickets: its next event, an Oct 9 robot-vs-robot "Deathmatch," charged **$69 a seat** [[17]](#sources). One analyst counted about 100 people there, roughly **$6,900 at the door**. He also pointed to a filing showing a fund holding about **$2.5M of REK preferred stock**, with tickets, sponsorships, media rights and merchandise listed as planned revenue [[21]](#sources). The numbers are small, but the pattern matters: a viral bout online turns into paying fans in the room. Within two weeks of the Sept 18 fight, the **California State Athletic Commission** warned organizers that unsanctioned human-vs-robot fights could be a misdemeanor [[18]](#sources).
-
-![Human vs. humanoid boxing match in San Francisco](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/1200/675/humanoid-human-boxing-match.jpg?ve=1&tl=1)
-*REK's human-vs-humanoid bout in San Francisco. Photo: [Fox News](https://www.foxnews.com/tech/human-vs-humanoid-robot-cage-fight-goes-viral)*
+- **Shenzhen:** EngineAI, the maker of the T800 humanoid, runs its own fight league, **URKL**. 32 teams fight on company-supplied T800s for a gold belt valued at about **$1.4M**, with finals scheduled for November and December [[17]](#sources). Every bout is a public stress test of EngineAI's own product.
 
 Not every headline here is about money yet. In **September**, Unitree released footage of a G1 sparring with a human **with no teleoperator**. It calls this the first fully autonomous humanoid combat, though no one has independently verified the claim [[16]](#sources). It isn't a product yet. It is a sign of how fast the technology behind these shows is improving.
 
@@ -85,7 +82,7 @@ Not every headline here is about money yet. In **September**, Unitree released f
 
 *▶ Click to watch: Unitree's autonomous combat demo, Sept 7, 2026. Video: [Unitree Robotics on YouTube](https://www.youtube.com/watch?v=qkIJELDgULA)*
 
-The format that pushes the machines hardest without putting people at risk is **robot vs. robot, with elite humans piloting**. On **October 7**, ARC Night staged Singapore's first full-sized humanoid fight night. Muay Thai, MMA, boxing and kung fu athletes, including national and international champions, wore **full-body motion-capture suits** and piloted Unitree G1 and EngineAI T800 humanoids in real time in front of 380+ people [[19]](#sources). The athlete supplied the intent and the robot handled balance and execution. Only machines took the hits.
+The format that pushes the machines hardest without putting people at risk is **robot vs. robot, with elite humans piloting**. On **October 7**, ARC Night staged **Singapore's first full-sized humanoid fight night**, fought entirely through **real-time teleoperation**. Muay Thai, MMA, boxing and kung fu athletes, including national and international champions, wore **full-body motion-capture suits** and piloted Unitree G1 and EngineAI T800 humanoids in real time in front of 380+ people [[18]](#sources). The athlete supplied the intent and the robot handled balance and execution. Only machines took the hits.
 
 ![The crowd at ARC Night in Singapore](assets/images/arc-night-singapore.png)
 *ARC Night at \*SCAPE, Singapore, Oct 7: more than 380 people came to watch athlete-piloted humanoids fight. Photo: Katena*
@@ -96,9 +93,8 @@ The format that pushes the machines hardest without putting people at risk is **
 
 ## What to watch next
 
-1. **Oct 21, Tesla's Q3 results.** This is the first chance for an official Optimus production number since the Fremont ramp began [[20]](#sources)[[6]](#sources).
-2. **Nov 2, Agility's shareholder vote.** If it passes, the US gets its first publicly listed pure-play humanoid company [[3]](#sources).
-3. **Rules for robot combat.** California has drawn its first line between sport and safety [[18]](#sources). How other regulators respond will shape which formats can grow.
+1. **Nov 2, Agility's shareholder vote.** If it passes, the US gets its first publicly listed pure-play humanoid company [[3]](#sources).
+2. **URKL's finals, November–December.** EngineAI's league reaches its title fights [[17]](#sources). How it goes will show whether robot makers can turn combat into a lasting format.
 
 Building humanoid bodies is now a crowded and well-funded race. Teaching those bodies human skill, in factories, in emergencies and in front of a crowd, is still early, and that is where the opportunity is.
 
@@ -106,7 +102,7 @@ Building humanoid bodies is now a crowded and well-funded race. Teaching those b
 
 ## Sources
 
-*All sources published September 1, 2026 or later.*
+*All sources published September 1, 2026 or later, except [17], which is background on EngineAI's URKL league.*
 
 1. Reuters via Khaleej Times, "China curbs humanoid IPOs after Unitree's volatile debut, The Information reports," Sept 9, 2026. https://www.khaleejtimes.com/business/china-curbs-humanoid-ipos-after-unitrees-volatile-debut-the-information-reports
 2. The Next Web, "China slows humanoid robot IPOs after Unitree," Sept 21, 2026. https://thenextweb.com/news/china-slows-humanoid-robot-ipos-unitree
@@ -124,8 +120,5 @@ Building humanoid bodies is now a crowded and well-funded race. Teaching those b
 14. The AI Insider, "Minerva Humanoids emerges from stealth with $10M," Oct 6, 2026. https://theaiinsider.tech/2026/10/06/minerva-humanoids-emerges-from-stealth-with-10m-in-funding-to-develop-robots-for-hazardous-work/ · Robotics & Automation News, Oct 7, 2026: https://roboticsandautomationnews.com/2026/10/07/minerva-humanoids-raises-10-million-to-develop-robots-for-dangerous-industrial-jobs/105619/
 15. HTX, "HTX launches H2RC to train humanoid robots for public safety," Oct 1, 2026. https://www.htx.gov.sg/whats-happening/all-news---events/all-news/2026/seizing-the-initiative-htx-launches-h2rc-to-train-humanoid-robots-for-public-safety
 16. Interesting Engineering, "Humanoid robot learns to fight autonomously," Sept 8, 2026. https://interestingengineering.com/ai-robotics/humanoid-robot-learns-to-fight-autonomously · Official video: https://www.youtube.com/watch?v=qkIJELDgULA
-17. Fox News, "Human vs. humanoid robot cage fight goes viral," Oct 5, 2026. https://www.foxnews.com/tech/human-vs-humanoid-robot-cage-fight-goes-viral · Dexerto, Oct 8, 2026: https://www.dexerto.com/entertainment/robotics-company-served-cease-and-desist-over-human-vs-robot-fights-3416650/
-18. Futurism, "California government officials order robot cage fight to cease," Oct 2, 2026. https://futurism.com/robots-and-machines/california-government-officials-robot-cage-fight-cease
-19. PR Newswire, "ARC stages Singapore's first full-sized humanoid fight night," Oct 9, 2026. https://www.prnewswire.com/apac/news-releases/arc-stages-singapores-first-full-sized-humanoid-fight-night-302903360.html
-20. Tesla, Q3 2026 earnings date announcement (SEC Form 8-K exhibit). https://www.sec.gov/Archives/edgar/data/0001318605/000162828026064366/exhibit991111111.htm
-21. Bret Kerr (Substack), "The crowd is paying to watch the prototype," Oct 14, 2026. https://bretkerr.substack.com/p/the-crowd-is-paying-to-watch-the
+17. Newsweek, "Robot 'decapitated' in world's first-ever humanoid UFC fight," July 2026. https://www.newsweek.com/robot-decapitated-in-worlds-first-ever-humanoid-ufc-fight-12209126 · Humanoid.guide: https://humanoid.guide/engineai-opens-urkl-humanoid-combat-league-in-shenzhen/
+18. PR Newswire, "ARC stages Singapore's first full-sized humanoid fight night," Oct 9, 2026. https://www.prnewswire.com/apac/news-releases/arc-stages-singapores-first-full-sized-humanoid-fight-night-302903360.html
