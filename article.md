@@ -16,7 +16,7 @@
 ![Atlas at Hyundai's Robotics Metaplant Application Center in Georgia](https://media.automotiveworld.com/app/uploads/2026/09/22111720/boston-dynamics-atlas-human-rmac.jpg)
 *Atlas training for factory work at Hyundai's new application center near Savannah, Georgia. Photo: [Automotive World](https://www.automotiveworld.com/news/boston-dynamics-opens-atlas-training-hub-at-hyundai-plant/)*
 
-In **September**, China's securities regulator reportedly gave banks informal "window guidance" to raise the bar for humanoid robot IPOs [[1]](#sources). Unitree, the sector's first mainland listing, had already fallen roughly 45% from its peak, and was down about 55% by the time the guidance surfaced [[2]](#sources). Companies waiting to list now need to show **recurring revenue and narrowing losses**, not just strong demos [[1]](#sources).
+In **September**, China's securities regulator reportedly gave banks informal "window guidance" to raise the bar for humanoid robot IPOs [[1]](#sources). Unitree, the sector's first mainland listing, had already fallen roughly 45% from its peak, and was down about 55% by the time the guidance surfaced [[2]](#sources). Companies waiting to list now need to show **recurring revenue and narrowing losses**, not just strong demos.
 
 The money is still there. It is going to companies that can show real deployments:
 
@@ -27,7 +27,7 @@ The money is still there. It is going to companies that can show real deployment
 
 Globally, IDC estimates about **25,000 humanoids shipped in the first half of 2026**, up 432% year over year. It expects that to pass **750,000 a year by 2030** [[9]](#sources).
 
-**The takeaway:** the question is no longer *whether* humanoids will ship. It is *who can make them pay*.
+**The takeaway:** the question is no longer whether humanoids will ship. It is who can make them pay.
 
 ---
 
@@ -48,18 +48,10 @@ This is common across the industry. Human skill used to be treated as a temporar
 | **Minerva Humanoids** (US / Germany) | Building "Roger," a humanoid that lets trained specialists do dangerous jobs remotely, operated in VR | **~$10M pre-seed led by General Catalyst** (Oct 6). Targets oil and gas, bomb disposal and HazMat [[14]](#sources) |
 | **HTX** (Singapore) | Government center training humanoids for HazMat, post-blast and emergency work | Opened Sept 30 with dedicated **motion-capture, teleoperation and human-demonstration** zones [[15]](#sources) |
 
-<!-- 🎬 VIDEO: when publishing to X / LinkedIn, replace the cover below with an upload of assets/videos/mecka-series-b.mp4, keep the caption -->
-[![Mecka's $60M Series B Led by Sequoia Capital](https://i.ytimg.com/vi/-P6adJ6P6C0/hqdefault.jpg)](https://youtu.be/-P6adJ6P6C0)
-
-*▶ Click to watch: Mecka's Series B film, Oct 8, 2026. Video: [Mecka on YouTube](https://youtu.be/-P6adJ6P6C0)*
-
 <!-- 🎬 VIDEO: when publishing to X / LinkedIn, replace the cover below with an upload of assets/videos/minerva-roger_will-cannon.mp4, keep the caption -->
 <a href="https://www.instagram.com/reels/Deabd8fvAQC/"><img src="assets/images/minerva-roger-reel-thumb.jpg" alt="Minerva Humanoids' Roger robot (Instagram reel)" width="320"></a>
 
 *▶ Click to watch: Roger, Minerva's humanoid for hazardous work, is built to be operated by a remote specialist. Video: [Will Cannon (@iamwillcannon) on Instagram](https://www.instagram.com/reels/Deabd8fvAQC/), Oct 12, 2026*
-
-> "Motion, contact, force and geometry aren't on the internet. You can't scrape them, license them or buy them."
-> (Mecka [[12]](#sources))
 
 **The takeaway:** language models learned from text people had already written. Robots have to learn from human movement that has never been recorded, and that data is now a paid market. The next question is which human data is worth most. Calm, everyday motion is relatively easy to capture. Fast, forceful decisions made under pressure are much harder to capture and more valuable.
 
@@ -70,7 +62,7 @@ This is common across the industry. Human skill used to be treated as a temporar
 ![AGIBOT humanoids at Chimelong Spaceship Park](https://www.robotics247.com/images/2026_article/AGIBOT-Chimelong-tourism-humanoid-main-Robotics247-2026.jpg)  
 *AGIBOT robots at Chimelong Spaceship Park in Zhuhai. Photo: [Robotics 24/7](https://www.robotics247.com/article/agibot-chimelong-launch-large-scale-embodied-ai-theme-park-with-over-300-robots)*
 
-Factories are the long-term prize. But in entertainment, people are already paying to watch humanoids today, years before most factory fleets reach full scale. None of these companies publish revenue yet, but the robot makers themselves are now building the shows:
+Factories are the long-term prize. But in entertainment, people are already paying to watch humanoids today, years before most factory fleets reach full scale. And the robot makers themselves are now building the shows:
 
 - **Zhuhai, China (Sept 24):** AGIBOT and Chimelong opened a theme park with **more than 300 humanoid robots** in its first phase [[7]](#sources). The robots are part of what visitors pay to see.
 - **Shenzhen:** EngineAI, the maker of the T800 humanoid, runs its own fight league, **URKL**. 32 teams fight on company-supplied T800s for a gold belt valued at about **$1.4M**, with finals scheduled for November and December [[17]](#sources). Every bout is a public stress test of EngineAI's own product.
@@ -84,8 +76,8 @@ Not every headline here is about money yet. In **September**, Unitree released f
 
 ARC Night in Singapore stood out for two reasons. On **October 7**, it became **Singapore's first full-sized humanoid fight night**, and every bout was **teleoperated in real time**. Muay Thai, MMA, boxing and kung fu athletes, including national and international champions, wore **full-body motion-capture suits** and piloted Unitree G1 and EngineAI T800 humanoids **move for move** in front of 380+ people [[18]](#sources). The robots' moves came from a real fighter's decisions in the moment, not a pre-programmed routine. The athlete supplied the intent and the robot handled balance and execution. Only machines took the hits. That makes **robot vs. robot, with elite humans piloting**, the format that pushes the machines hardest without putting people at risk.
 
-![The crowd at ARC Night in Singapore](assets/images/arc-night-singapore.png)
-*ARC Night at \*SCAPE, Singapore, Oct 7: Singapore's first full-sized humanoid fight night, where more than 380 people watched champions pilot humanoids in real time. Photo: Katena*
+[![The crowd at ARC Night in Singapore](assets/images/arc-night-singapore.png)](https://www.instagram.com/p/DePMlswTYOq/)
+*ARC Night at \*SCAPE, Singapore, Oct 7: Singapore's first full-sized humanoid fight night, where more than 380 people watched champions pilot humanoids in real time. Video: [Katena on Instagram](https://www.instagram.com/p/DePMlswTYOq/)*
 
 **The takeaway:** live entertainment ties the first two trends together. Audiences are already buying tickets, while factory deployments are still ramping. It is the toughest public test of humanoid hardware. And it produces some of the hardest human data to collect: fast, contact-heavy decisions made under pressure.
 
@@ -93,8 +85,8 @@ ARC Night in Singapore stood out for two reasons. On **October 7**, it became **
 
 ## What to watch next
 
-1. **Nov 2, Agility's shareholder vote.** If it passes, the US gets its first publicly listed pure-play humanoid company [[3]](#sources).
-2. **URKL's finals, November–December.** EngineAI's league reaches its title fights [[17]](#sources). How it goes will show whether robot makers can turn combat into a lasting format.
+- **Nov 2, Agility's shareholder vote.** If it passes, the US gets its first publicly listed pure-play humanoid company [[3]](#sources).
+- **URKL's finals, November–December.** EngineAI's league reaches its title fights [[17]](#sources). How it goes will show whether robot makers can turn combat into a lasting format.
 
 Building humanoid bodies is now a crowded and well-funded race. Teaching those bodies human skill, in factories, in emergencies and in front of a crowd, is still early, and that is where the opportunity is.
 
