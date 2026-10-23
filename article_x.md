@@ -170,4 +170,10 @@ Building humanoid bodies is now a crowded, well-funded race.
 
 Teaching those bodies human skill, in factories, in emergencies and in front of a crowd, is still early. That's where the opportunity is.
 
+---
+
+### 16/
+
+ARC's next fight night will be bigger, louder and harder-hitting. Stay tuned.
+
 Full article with all sources: [ADD LINK]

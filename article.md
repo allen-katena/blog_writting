@@ -90,6 +90,8 @@ ARC Night in Singapore stood out for two reasons. On **October 7**, it became **
 
 Building humanoid bodies is now a crowded and well-funded race. Teaching those bodies human skill, in factories, in emergencies and in front of a crowd, is still early, and that is where the opportunity is.
 
+**ARC's next fight night will be bigger, louder and harder-hitting. Stay tuned.**
+
 ---
 
 ## Sources

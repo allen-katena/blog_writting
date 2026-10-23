@@ -28,6 +28,8 @@ Live entertainment ties it all together: audiences pay now while factory fleets 
 
 Building humanoid bodies is now a crowded, well-funded race. Teaching them human skill is still early, and that is where the opportunity is.
 
+ARC's next fight night will be bigger, louder and harder-hitting. Stay tuned.
+
 Full article with all sources: [ADD LINK]
 
 #HumanoidRobots #Robotics #EmbodiedAI
