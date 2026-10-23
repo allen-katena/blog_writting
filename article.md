@@ -82,10 +82,10 @@ Not every headline here is about money yet. In **September**, Unitree released f
 
 *▶ Click to watch: Unitree's autonomous combat demo, Sept 7, 2026. Video: [Unitree Robotics on YouTube](https://www.youtube.com/watch?v=qkIJELDgULA)*
 
-The format that pushes the machines hardest without putting people at risk is **robot vs. robot, with elite humans piloting**. On **October 7**, ARC Night staged **Singapore's first full-sized humanoid fight night**, fought entirely through **real-time teleoperation**. Muay Thai, MMA, boxing and kung fu athletes, including national and international champions, wore **full-body motion-capture suits** and piloted Unitree G1 and EngineAI T800 humanoids in real time in front of 380+ people [[18]](#sources). The athlete supplied the intent and the robot handled balance and execution. Only machines took the hits.
+ARC Night in Singapore stood out for two reasons. On **October 7**, it became **Singapore's first full-sized humanoid fight night**, and every bout was **teleoperated in real time**. Muay Thai, MMA, boxing and kung fu athletes, including national and international champions, wore **full-body motion-capture suits** and piloted Unitree G1 and EngineAI T800 humanoids **move for move** in front of 380+ people [[18]](#sources). The robots' moves came from a real fighter's decisions in the moment, not a pre-programmed routine. The athlete supplied the intent and the robot handled balance and execution. Only machines took the hits. That makes **robot vs. robot, with elite humans piloting**, the format that pushes the machines hardest without putting people at risk.
 
 ![The crowd at ARC Night in Singapore](assets/images/arc-night-singapore.png)
-*ARC Night at \*SCAPE, Singapore, Oct 7: more than 380 people came to watch athlete-piloted humanoids fight. Photo: Katena*
+*ARC Night at \*SCAPE, Singapore, Oct 7: Singapore's first full-sized humanoid fight night, where more than 380 people watched champions pilot humanoids in real time. Photo: Katena*
 
 **The takeaway:** live entertainment ties the first two trends together. Audiences are already buying tickets, while factory deployments are still ramping. It is the toughest public test of humanoid hardware. And it produces some of the hardest human data to collect: fast, contact-heavy decisions made under pressure.
 

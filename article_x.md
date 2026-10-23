@@ -136,7 +136,10 @@ It isn't a product. It shows how fast the tech behind these shows is moving.
 
 ### 12/
 
-ARC Night (Oct 7) was Singapore's first full-sized humanoid fight night, and it was teleoperated in real time.
+What made ARC Night (Oct 7) special:
+
+• Singapore's first full-sized humanoid fight night
+• Every bout teleoperated in real time
 
 Muay Thai, MMA and boxing champions in mocap suits piloted humanoids move for move for 380+ people. Only machines took the hits.
 

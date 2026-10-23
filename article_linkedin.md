@@ -22,7 +22,7 @@ Boston Dynamics' new Atlas hand ran its drill demo with a remote operator. Mecka
 Language models learned from text people had already written. Robots have to learn from human movement that was never recorded, and that data is now a paid market.
 
 𝟯. 𝗘𝗻𝘁𝗲𝗿𝘁𝗮𝗶𝗻𝗺𝗲𝗻𝘁 𝗶𝘀 𝘁𝗵𝗲 𝗺𝗼𝘀𝘁 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗮𝗹 𝗽𝗮𝘁𝗵 𝘁𝗼 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝘁𝗼𝗱𝗮𝘆
-AGIBOT and Chimelong opened a theme park with 300+ humanoids. EngineAI, maker of the T800, runs its own fight league, URKL, with a gold belt worth ~$1.4M. At ARC Night, Singapore's first full-sized humanoid fight night, Muay Thai, MMA and boxing champions in motion-capture suits piloted humanoids in real time for 380+ people. Only machines took the hits.
+AGIBOT and Chimelong opened a theme park with 300+ humanoids. EngineAI, maker of the T800, runs its own fight league, URKL, with a gold belt worth ~$1.4M. ARC Night stood out: it was Singapore's first full-sized humanoid fight night, and every bout was teleoperated in real time. Muay Thai, MMA and boxing champions in motion-capture suits piloted humanoids move for move for 380+ people. Only machines took the hits.
 
 Live entertainment ties it all together: audiences pay now while factory fleets ramp, it is the toughest public test of the hardware, and it produces the hardest human data to collect: fast, contact-heavy decisions under pressure.
 
